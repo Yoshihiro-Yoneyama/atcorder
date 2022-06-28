@@ -124,5 +124,4 @@ public class Scanner {
 		}
 		return a;
 	}
-
 }
